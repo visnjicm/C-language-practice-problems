@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #define SIZE 5
 
-
+//test
 int checkSort(int* array, int size, int* P);
 
 int main()
